@@ -2,10 +2,14 @@
 ## **Daily User Log Archiver**
 
 **Student Name:** Arjun Rohilla
+
 **SAP ID:** 590029204
+
 **Course:** B.Tech CSE 
+
 **Project Type:** Shell Scripting  
-**Date:** October 2025  
+
+**Date:** 2/11/25  
 
 ---
 
